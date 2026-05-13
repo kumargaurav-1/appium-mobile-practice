@@ -42,7 +42,7 @@ This repository contains Appium examples, mobile gestures, device interactions, 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Appium](https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white)
